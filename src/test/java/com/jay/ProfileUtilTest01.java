@@ -8,7 +8,7 @@ import junit.framework.TestCase;
  * @author LewJay
  * @create 2018/11/23 21:19
  */
-public class TestProfileUtil extends TestCase {
+public class ProfileUtilTest01 extends TestCase {
     @Override
     protected void setUp() throws Exception {
         ProfileUtil.init();
